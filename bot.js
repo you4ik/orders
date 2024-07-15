@@ -38,7 +38,7 @@ bot.on("message", (msg) => {
   const [command, ...args] = text.split(" ");
 
   // Add order command
-  if (command.toLowerCase() === "/add" && args.length >= 3) {
+  if (command.toLowerCase() === "add" && args.length >= 3) {
     const date = args[0];
     const ordersInput = args.slice(1).join(" ");
     try {
@@ -48,7 +48,7 @@ bot.on("message", (msg) => {
       bot.sendMessage(chatId, `Error: ${error.message}`);
     }
   // List orders command
-  } else if (command.toLowerCase() === "/list") {
+  } else if (command.toLowerCase() === "list") {
     const startDate = args[0] || "11.07";
     const endDate = args[1] || "28.07";
     const filteredOrders = getFilteredOrders(startDate, endDate);

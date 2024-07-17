@@ -3,13 +3,17 @@
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "show list": "node app.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "��#\u0000 \u0000o\u0000r\u0000d\u0000\r\u0000 \u0000",
   "dependencies": {
+    "axios": "^1.7.2",
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
     "node-telegram-bot-api": "^0.66.0",
     "pm2": "^5.4.2"
   }

@@ -41,19 +41,19 @@ bot.on("message", (msg) => {
   if (command.toLowerCase() === "add" && args.length >= 3) {
     const date = args[0];
     const ordersInput = args.slice(1).join(" ");
-    try {
-      const response = addOrder(date, ordersInput);
-      bot.sendMessage(chatId, response);
-    } catch (error) {
-      bot.sendMessage(chatId, `Error: ${error.message}`);
-    }
+    addOrder(date, ordersInput)
+      .then(response => bot.sendMessage(chatId, response))
+      .catch(error => bot.sendMessage(chatId, `Error: ${error.message}`));
   // List orders command
   } else if (command.toLowerCase() === "list") {
     const startDate = args[0] || "11.07";
     const endDate = args[1] || "28.07";
-    const filteredOrders = getFilteredOrders(startDate, endDate);
-    const summary = getOrdersSummary(filteredOrders);
-    bot.sendMessage(chatId, summary);
+    getFilteredOrders(startDate, endDate)
+      .then(filteredOrders => {
+        const summary = getOrdersSummary(filteredOrders);
+        bot.sendMessage(chatId, summary);
+      })
+      .catch(error => bot.sendMessage(chatId, `Error: ${error.message}`));
   // Restart bot command
   } else if (command.toLowerCase() === "/restart") {
     if (!isRestarting) {

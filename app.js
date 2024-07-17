@@ -4,7 +4,7 @@ const fs = require('fs');
 const getOrders = JSON.parse(fs.readFileSync('orders.json', 'utf-8'));
 
 // Определение интересующего диапазона дат
-const startDate = '11.07';
+const startDate = '16.07';
 const endDate = '18.07';
 
 // Функция для фильтрации заказов по диапазону дат

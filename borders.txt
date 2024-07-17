@@ -1,0 +1,32 @@
+
+APPLE (48.2 Gram)
+**11.07 orders:**
+- ANTON: 1 @ 800, FAK: 1, DOLG:
+- JEWA: 4 @ 0, FAK: 0, DOLG:
+- JEWA: 2 @ 0, FAK: 0, DOLG:
+- HABIBI: 1 @ 0, FAK: 0, DOLG:
+- ILJA: 1 @ 0, FAK: 0, DOLG:
+
+**12.07 orders:**
+- ANTON: 1 @ 800, FAK: 1, DOLG:
+- HABIBI: 2 @ 0, FAK: 0, DOLG:
+
+**14.07 orders:**
+- ANTON: 1 @ 800, FAK: 1, DOLG:
+
+
+**TOTAL:**
+- AMOUNT: 13
+- SUMMA: 2400,
+- STOP: 0,
+
+
+**SUMS FOR FAK=1:**
+- ANTON: 2400
+
+
+**TOTAL KOL BY NAME:**
+- ANTON: 3
+- JEWA: 6
+- HABIBI: 3
+- ILJA: 1

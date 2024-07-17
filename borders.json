@@ -1,0 +1,58 @@
+{
+  "11.07": [
+    {
+      "kol": 1,
+      "sum": 800,
+      "fak": 1,
+      "name": "ANTON"
+    },
+    {
+      "kol": 4,
+      "sum": 0,
+      "fak": 0,
+      "name": "JEWA"
+    },
+    {
+      "kol": 2,
+      "sum": 0,
+      "fak": 0,
+      "name": "JEWA"
+    },
+    {
+      "kol": 1,
+      "sum": 0,
+      "fak": 0,
+      "name": "HABIBI"
+    },
+
+    {
+      "kol": 1,
+      "sum": 0,
+      "fak": 0,
+      "name": "ILJA"
+    }
+  ],
+  "12.07": [
+    {
+      "kol": 1,
+      "sum": 800,
+      "fak": 1,
+      "name": "ANTON"
+    },
+
+    {
+      "kol": 2,
+      "sum": 0,
+      "fak": 0,
+      "name": "HABIBI"
+    }
+  ],
+  "14.07": [
+    {
+      "kol": 1,
+      "sum": 800,
+      "fak": 1,
+      "name": "ANTON"
+    }
+  ]
+}

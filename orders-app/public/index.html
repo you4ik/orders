@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="manifest" href="manifest.json">
+    <title>Orders App</title>
+</head>
+<body>
+<div class="container">
+    <h1>Orders App</h1>
+    <div id="ordersList"></div>
+</div>
+
+<!-- Floating Form Button -->
+<div class="add-button">
+    <button id="showFormBtn">+</button>
+</div>
+
+<!-- Add Order Form -->
+<div id="orderFormContainer" class="form-container">
+    <form id="orderForm">
+        <label for="date">Date:</label>
+        <input type="text" id="date" name="date" required>
+        <label for="kol">Kol:</label>
+        <input type="number" id="kol" name="kol" required>
+        <label for="sum">Sum:</label>
+        <input type="number" id="sum" name="sum" required>
+        <label for="stop">Stop:</label>
+        <input type="number" id="stop" name="stop" value="300">
+        <label for="desc">Desc:</label>
+        <input type="text" id="desc" name="desc">
+        <button type="submit">Add Order</button>
+        <button type="button" id="cancelFormBtn">Cancel</button>
+    </form>
+</div>
+
+<!-- Bottom Menu -->
+<div class="bottom-menu">
+    <button id="homeBtn">Home</button>
+    <button id="addOrderBtn">Add Order</button>
+</div>
+
+<script src="script.js"></script>
+<script>
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('service-worker.js')
+            .then(registration => {
+                console.log('Service Worker registered with scope:', registration.scope);
+            })
+            .catch(error => {
+                console.log('Service Worker registration failed:', error);
+            });
+    }
+</script>
+</body>
+</html>

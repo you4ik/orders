@@ -82,7 +82,7 @@ ${formatOrders(orders)}
 - AMOUNT: ${totalItems(orders)+2}
 - SUMMA: ${totalSum(orders)},
 - STOP: ${totalStop(orders)},
-- KASSA BALANCE: **${totalSum(orders) - totalStop(orders)+500}SEK + 350 EUR + 80 USDT**
+- KASSA BALANCE: **${totalSum(orders) - totalStop(orders)+500}SEK + 200 EUR + 80 USDT**
 `;
 
 // Выводим сообщение

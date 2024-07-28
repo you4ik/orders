@@ -552,6 +552,18 @@
       "sum": 1500,
       "stop": 300,
       "desc": ""
+    },
+    {
+      "kol": 5,
+      "sum": 2000,
+      "stop": 0,
+      "desc": ""
+    },
+    {
+      "kol": 1,
+      "sum": 0,
+      "stop": 0,
+      "desc": "habibi"
     }
   ]
 }

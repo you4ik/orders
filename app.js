@@ -78,17 +78,17 @@ const message = `
 ${formatOrders(orders)}
 
 
-*******  TOTAL  *******
+***** TOTAL  *****
  - AMOUNT: ${totalItems(orders)}           
  - SUMMA: ${totalSum(orders)},       
  - STOP: ${totalStop(orders)},         
-***********************
+*****************
 
-******* BALANCE *******
+**** BALANCE ****
  - SEK: ${totalSum(orders) - totalStop(orders)+300}          
  - USDT: 80            
  - EUR: 0              
-***********************
+*****************
 `;
 
 // Выводим сообщение

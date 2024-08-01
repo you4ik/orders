@@ -79,15 +79,15 @@ ${formatOrders(orders)}
 
 
 *******  TOTAL  *******
-* AMOUNT: ${totalItems(orders)}           *
-* SUMMA: ${totalSum(orders)},       *
-* STOP: ${totalStop(orders)},         *
+ - AMOUNT: ${totalItems(orders)}           
+ - SUMMA: ${totalSum(orders)},       
+ - STOP: ${totalStop(orders)},         
 ***********************
 
 ******* BALANCE *******
-* SEK: ${totalSum(orders) - totalStop(orders)+300}          *
-* USDT: 80            *
-* EUR: 0              *
+ - SEK: ${totalSum(orders) - totalStop(orders)+300}          
+ - USDT: 80            
+ - EUR: 0              
 ***********************
 `;
 

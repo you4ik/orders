@@ -4,17 +4,32 @@ const fs = require('fs');
 const getOrders = JSON.parse(fs.readFileSync('orders.json', 'utf-8'));
 
 // Определение интересующего диапазона дат
-const startDate = '29.07';
-const endDate = '99.07';
+const startDate = '05.08';
+const endDate = '11.08';
+
+// Преобразование даты из формата "день.месяц" в "месяц.день" для корректного сравнения
+function convertDate(date) {
+    const [day, month] = date.split('.');
+    return `${month.padStart(2, '0')}.${day.padStart(2, '0')}`;
+}
 
 // Функция для фильтрации заказов по диапазону дат
 function filterOrdersByDateRange(orders, startDate, endDate) {
     let filteredOrders = {};
+    console.log(`Filtering orders from ${startDate} to ${endDate}`);
+    const convertedStartDate = convertDate(startDate);
+    const convertedEndDate = convertDate(endDate);
     for (let date in orders) {
-        if (date >= startDate && date <= endDate) {
+        const convertedDate = convertDate(date);
+        //console.log(`Checking date: ${convertedDate}`);
+        if (convertedDate >= convertedStartDate && convertedDate <= convertedEndDate) {
             filteredOrders[date] = orders[date];
+           // console.log(`Date ${date} is within range.`);
+        } else {
+          //  console.log(`Date ${date} is out of range.`);
         }
     }
+  // console.log(`Filtered orders: ${JSON.stringify(filteredOrders)}`);
     return filteredOrders;
 }
 
@@ -37,7 +52,6 @@ function formatOrders(orders) {
     }
     return formatted.trim();
 }
-
 
 // Вычисление общего количества позиций (AMOUNT)
 function totalItems(orders) {
@@ -85,7 +99,7 @@ ${formatOrders(orders)}
 *****************
 
 **** BALANCE ****
- - SEK: ${totalSum(orders) - totalStop(orders)+300}          
+ - SEK: ${totalSum(orders) - totalStop(orders) + 300}          
  - USDT: 80            
  - EUR: 0              
 *****************

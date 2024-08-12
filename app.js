@@ -4,8 +4,8 @@ const fs = require('fs');
 const getOrders = JSON.parse(fs.readFileSync('orders.json', 'utf-8'));
 
 // Определение интересующего диапазона дат
-const startDate = '11.08';
-const endDate = '11.08';
+const startDate = '12.08';
+const endDate = '12.08';
 
 // Преобразование даты из формата "день.месяц" в "месяц.день" для корректного сравнения
 function convertDate(date) {
@@ -99,7 +99,7 @@ ${formatOrders(orders)}
 *****************
 
 **** BALANCE ****
- - MINITS: ${206 - totalItems(ordersall)}
+ - MINITS: ${205 - totalItems(ordersall)}
  - SEK: ${totalSum(ordersall) - totalStop(ordersall) }          
  - USDT: -80 (160 send)            
  - EUR: 0              

@@ -1,18 +1,64 @@
 
+THIS IS ONLY EURO
 
-*** 12.08 ***
-- 2 @ 1600
+Transfer details
+EUR · SEPA (European)
+Recipient
+Arturs Santaras 
+Registration number
+1991-08-30 
+Address
+Anniņmuižas Bulv. 80-4, Rīga, Latvia, 1069 
+Country
+Latvia 
 
 
-***** 12.08 - 12.08  *****
- - AMOUNT: 2           
- - SUMMA: 1600,       
- - STOP: 300,         
-*****************
+Bank details
+Bank name
+BILDERLINGS PAY LIMITED 
+IBAN/Account No.
+GB75 BIYS 0099 5609 7527 51 
+SWIFT code
+BIYSGB2A 
+Bank address
+13 Regent Street, London, SW1Y 4LR 
+Bank country
+United Kingdom 
 
-**** BALANCE ****
- - MINITS: 161
- - SEK: 21300          
- - USDT: -80 (160 send)            
- - EUR: 0              
-*****************
+------------------------------------------
+
+UK ONLY GBP
+
+
+Transfer details
+GBP · FPS (Local UK payments only)
+
+Specify in payment details
+QV9059 
+Recipient
+Bilderlings Pay Limited 
+Registration number
+09908958 
+Address
+13 Regent Street, London, SW1Y 4LR 
+Country
+United Kingdom 
+
+
+Bank details
+Bank name
+iFAST Global Bank Limited 
+Sort code
+04 36 30 
+Account number
+00 0407 89 
+IBAN/Account No.
+GB83 EZYR 0436 3000 0407 89 
+SWIFT code
+EZYRGB3L 
+Bank address
+Sierra Quebec Bravo 77 Marsh Wall London, E14 9SH, UK 
+Bank country
+United Kingdom 
+
+=======

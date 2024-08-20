@@ -5,7 +5,7 @@ const getOrders = JSON.parse(fs.readFileSync('orders.json', 'utf-8'));
 
 // Определение интересующего диапазона дат
 const startDate = '06.08';
-const endDate = '20.08';
+const endDate = '25.08';
 
 // Преобразование даты из формата "день.месяц" в "месяц.день" для корректного сравнения
 function convertDate(date) {
@@ -85,7 +85,7 @@ function totalStop(orders) {
     }
     return total;
 }
-const ordersall = filterOrdersByDateRange(getOrders, '06.08', '19.08');
+const ordersall = filterOrdersByDateRange(getOrders, '06.08', '28.08');
 // Собираем сообщение
 const message = `
 

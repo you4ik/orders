@@ -1083,5 +1083,114 @@
       "stop": 0,
       "desc": "-35 USDT"
     }
+  ],
+  "23.08": [
+    {
+      "kol": 1,
+      "sum": 1000,
+      "stop": 300,
+      "desc": "",
+      "client": ""
+    },
+    {
+      "kol": 1,
+      "sum": 1000,
+      "stop": 300,
+      "desc": "",
+      "client": "Litovec vinter"
+    },
+    {
+      "kol": 3,
+      "sum": 2000,
+      "stop": 300,
+      "desc": "",
+      "client": "ruskij nacka",
+      "adress": "Kumla gardsvag 30 A"
+    },
+    {
+      "kol": 3,
+      "sum": 2400,
+      "stop": 300,
+      "desc": ""
+    },
+    {
+      "kol": 1,
+      "sum": 1000,
+      "stop": 300,
+      "desc": "",
+      "client": "Stamgatan 40"
+    },
+    {
+      "kol": 1,
+      "sum": 800,
+      "stop": 300,
+      "desc": ""
+    },
+    {
+      "kol": 2,
+      "sum": 3400,
+      "stop": 300,
+      "desc": "2ban 2500?"
+    },
+    {
+      "kol": 2,
+      "sum": 1600,
+      "stop": 300,
+      "desc": ""
+    },
+    {
+      "kol": 2,
+      "sum": 1600,
+      "stop": 300,
+      "desc": ""
+    },
+    {
+      "kol": 2,
+      "sum": 1600,
+      "stop": 300,
+      "desc": ""
+    },
+    {
+      "kol": 1,
+      "sum": 1700,
+      "stop": 300,
+      "desc": "1ban"
+    },
+    {
+      "kol": 2,
+      "sum": 1600,
+      "stop": 300,
+      "desc": ""
+    },
+    {
+      "kol": 1,
+      "sum": 800,
+      "stop": 300,
+      "desc": ""
+    },
+    {
+      "kol": 2,
+      "sum": 1600,
+      "stop": 300,
+      "desc": ""
+    },
+    {
+      "kol": 3,
+      "sum": 2400,
+      "stop": 300,
+      "desc": ""
+    },
+    {
+      "kol": 1,
+      "sum": 800,
+      "stop": 300,
+      "desc": ""
+    },
+    {
+      "kol": 1,
+      "sum": 0,
+      "stop": 0,
+      "desc": "habibi"
+    }
   ]
 }

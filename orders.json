@@ -1302,5 +1302,67 @@
       "stop": 300,
       "desc": ""
     }
+  ],
+  "29.08": [
+    {
+      "kol": 2,
+      "sum": 1600,
+      "stop": 300,
+      "desc": ""
+    }
+  ],
+  "30.08": [
+    {
+      "kol": 0,
+      "sum": 35000,
+      "stop": 150,
+      "desc": ""
+    },
+    {
+      "kol": 0,
+      "sum": -11500,
+      "stop": 150,
+      "desc": ""
+    },
+    {
+      "kol": 4,
+      "sum": 3000,
+      "stop": 300,
+      "adr": "Narkesgatan 6",
+      "driver": "Jewa",
+      "desc": ""
+    },
+    {
+      "kol": 3,
+      "sum": 2500,
+      "stop": 300,
+      "adr": "PizzaPauls",
+      "driver": "Vinzzz",
+      "desc": ""
+    },
+    {
+      "kol": 2,
+      "sum": 2000,
+      "stop": 300,
+      "adr": "Tulegatan 10",
+      "driver": "Vinzzz",
+      "desc": ""
+    },
+    {
+      "kol": 0,
+      "sum": 20000,
+      "stop": 500,
+      "adr": "Tulinge",
+      "driver": "Vinzzz",
+      "desc": ""
+    },
+    {
+      "kol": 2,
+      "sum": 1600,
+      "stop": 300,
+      "adr": "",
+      "driver": "Vinzzz",
+      "desc": ""
+    }
   ]
 }

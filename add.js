@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = './orders.json';
 
 // Function to add orders
-const addOrders = (date, orders) => {
+const addOrders = (date, orders, adr, driver) => {
   fs.readFile(path, (err, data) => {
     if (err) {
       console.error('Error reading orders.json:', err);
@@ -23,7 +23,7 @@ const addOrders = (date, orders) => {
 
     orders.forEach(order => {
       const [kol, sum, stop = 300] = order;
-      orderData[date].push({ kol, sum, stop, desc: "" });
+      orderData[date].push({ kol, sum, stop, adr, driver, desc: "" });
     });
 
     fs.writeFile(path, JSON.stringify(orderData, null, 2), (writeErr) => {
@@ -38,22 +38,22 @@ const addOrders = (date, orders) => {
 
 // Parse command line arguments
 const args = process.argv.slice(2);
-if (args.length < 3 || args.length % 2 === 0) {
-  console.error('Usage: node add.js <date> <kol1> <sum1> [<kol2> <sum2> ...]');
+if (args.length < 3 || args.length > 5) {
+  console.error('Usage: node add.js <date> <kol> <sum> [<adr>] [<driver>]');
   process.exit(1);
 }
 
 const date = args[0];
-const orders = [];
+const kol = parseInt(args[1]);
+const sum = parseInt(args[2]);
+const adr = args[3] || "";
+const driver = args[4] || "Vinzzz";
 
-for (let i = 1; i < args.length; i += 2) {
-  const kol = parseInt(args[i]);
-  const sum = parseInt(args[i + 1]);
-  if (isNaN(kol) || isNaN(sum)) {
-    console.error('Error: kol and sum must be numbers');
-    process.exit(1);
-  }
-  orders.push([kol, sum]);
+if (isNaN(kol) || isNaN(sum)) {
+  console.error('Error: kol and sum must be numbers');
+  process.exit(1);
 }
 
-addOrders(date, orders);
+const orders = [[kol, sum]];
+
+addOrders(date, orders, adr, driver);

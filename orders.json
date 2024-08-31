@@ -1334,7 +1334,7 @@
     },
     {
       "kol": 3,
-      "sum": 2500,
+      "sum": 2400,
       "stop": 300,
       "adr": "PizzaPauls",
       "driver": "Vinzzz",
@@ -1342,7 +1342,7 @@
     },
     {
       "kol": 2,
-      "sum": 2000,
+      "sum": 1500,
       "stop": 300,
       "adr": "Tulegatan 10",
       "driver": "Vinzzz",
@@ -1363,6 +1363,15 @@
       "adr": "",
       "driver": "Vinzzz",
       "desc": ""
+    },
+    {
+      "kol": 3,
+      "sum": 700,
+      "stop": 0,
+      "adr": "",
+      "driver": "",
+      "desc": "Habibi Birtdays cake"
     }
+
   ]
 }

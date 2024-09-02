@@ -99,7 +99,7 @@ ${formatOrders(orders)}
 *****************
 
 **** BALANCE ****
- - MINITS: ${357 - totalItems(ordersall)} 
+ - MINITS: ${355 - totalItems(ordersall)} 
  - SEK: ${totalSum(ordersall) - totalStop(ordersall)-12300  }      
  - USDT: 1100(12300)
  - EUR: 0              

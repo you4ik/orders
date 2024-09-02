@@ -1372,6 +1372,39 @@
       "driver": "",
       "desc": "Habibi Birtdays cake"
     }
-
+  ],
+  "01.09": [
+    {
+      "kol": 0,
+      "sum": -10000,
+      "stop": 300,
+      "adr": "",
+      "driver": "Vinzzz",
+      "desc": ""
+    },
+    {
+      "kol": 2,
+      "sum": 1600,
+      "stop": 300,
+      "adr": "",
+      "driver": "Vinzzz",
+      "desc": ""
+    },
+    {
+      "kol": 1,
+      "sum": 800,
+      "stop": 300,
+      "adr": "",
+      "driver": "Vinzzz",
+      "desc": ""
+    },
+    {
+      "kol": 1,
+      "sum": 800,
+      "stop": 300,
+      "adr": "",
+      "driver": "Vinzzz",
+      "desc": ""
+    }
   ]
 }

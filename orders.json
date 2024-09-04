@@ -646,6 +646,14 @@
       "sum": 2500,
       "stop": 300,
       "desc": ""
+    },
+    {
+      "kol": 2,
+      "sum": 0,
+      "stop": 300,
+      "adr": "",
+      "driver": "Vinzzz",
+      "desc": ""
     }
   ],
   "06.08": [
@@ -1393,6 +1401,66 @@
     {
       "kol": 1,
       "sum": 800,
+      "stop": 300,
+      "adr": "",
+      "driver": "Vinzzz",
+      "desc": ""
+    },
+    {
+      "kol": 1,
+      "sum": 800,
+      "stop": 300,
+      "adr": "",
+      "driver": "Vinzzz",
+      "desc": ""
+    },
+    {
+      "kol": 3,
+      "sum": 1400,
+      "stop": 300,
+      "adr": "",
+      "driver": "Vinzzz",
+      "desc": ""
+    },
+    {
+      "kol": 1,
+      "sum": 0,
+      "stop": 0,
+      "adr": "",
+      "driver": "Vinzzz",
+      "desc": "Vinzz"
+    }
+  ],
+  "02.09": [
+    {
+      "kol": 1,
+      "sum": 0,
+      "stop": 500,
+      "adr": "",
+      "driver": "Vinzzz",
+      "desc": "drop 800bana"
+    },
+    {
+      "kol": 1,
+      "sum": 1000,
+      "stop": 300,
+      "adr": "",
+      "driver": "Vinzzz",
+      "desc": ""
+    }
+  ],
+  "03.09": [
+    {
+      "kol": 1,
+      "sum": 1000,
+      "stop": 300,
+      "adr": "",
+      "driver": "Vinzzz",
+      "desc": ""
+    },
+    {
+      "kol": 1,
+      "sum": 5600,
       "stop": 300,
       "adr": "",
       "driver": "Vinzzz",

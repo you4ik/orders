@@ -1,1474 +1,1544 @@
 {
+  "01.08": [
+    {
+      "desc": "",
+      "kol": 3,
+      "stop": 300,
+      "sum": 2500
+    },
+    {
+      "adr": "",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 2,
+      "stop": 300,
+      "sum": 0
+    }
+  ],
+  "01.09": [
+    {
+      "adr": "",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 0,
+      "stop": 300,
+      "sum": -10000
+    },
+    {
+      "adr": "",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "adr": "",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 1,
+      "stop": 300,
+      "sum": 800
+    },
+    {
+      "adr": "",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 1,
+      "stop": 300,
+      "sum": 800
+    },
+    {
+      "adr": "",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 3,
+      "stop": 300,
+      "sum": 1400
+    },
+    {
+      "adr": "",
+      "desc": "Vinzz",
+      "driver": "Vinzzz",
+      "kol": 1,
+      "stop": 0,
+      "sum": 0
+    }
+  ],
+  "02.09": [
+    {
+      "adr": "",
+      "desc": "takebanana",
+      "driver": "Vinzzz",
+      "kol": 0,
+      "stop": 0,
+      "sum": -35000
+    },
+    {
+      "adr": "",
+      "desc": "drop 800bana",
+      "driver": "Vinzzz",
+      "kol": 1,
+      "stop": 500,
+      "sum": 0
+    },
+    {
+      "adr": "",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    }
+  ],
+  "03.08": [
+    {
+      "adr": "",
+      "desc": "Vinzz",
+      "driver": "Vinzzz",
+      "kol": 1,
+      "stop": 0,
+      "sum": 0
+    }
+  ],
+  "03.09": [
+    {
+      "adr": "",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "adr": "",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 1,
+      "stop": 300,
+      "sum": 5600
+    },
+    {
+      "adr": "",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 1,
+      "stop": 300,
+      "sum": 800
+    }
+  ],
   "06.07": [
     {
       "kol": 6,
-      "sum": 3000,
-      "stop": 300
+      "stop": 300,
+      "sum": 3000
     },
     {
       "kol": 6,
-      "sum": 0,
-      "stop": 300
+      "stop": 300,
+      "sum": 0
     },
     {
       "kol": 1,
-      "sum": 1000,
-      "stop": 300
+      "stop": 300,
+      "sum": 1000
     },
     {
       "kol": 8,
-      "sum": 3500,
-      "stop": 0
+      "stop": 0,
+      "sum": 3500
     },
     {
       "kol": 2,
-      "sum": 1600,
-      "stop": 300
+      "stop": 300,
+      "sum": 1600
     },
     {
       "kol": 1,
-      "sum": 600,
-      "stop": 300
+      "stop": 300,
+      "sum": 600
     },
     {
       "kol": 1,
-      "sum": 1000,
-      "stop": 300
+      "stop": 300,
+      "sum": 1000
     },
     {
       "kol": 1,
-      "sum": 1000,
-      "stop": 300
+      "stop": 300,
+      "sum": 1000
+    }
+  ],
+  "06.08": [
+    {
+      "desc": "ban",
+      "kol": 3,
+      "stop": 300,
+      "sum": 2000
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 800
     }
   ],
   "07.07": [
     {
       "kol": 3,
-      "sum": 2400,
-      "stop": 300
+      "stop": 300,
+      "sum": 2400
     },
     {
       "kol": 15,
-      "sum": 0,
-      "stop": 300
+      "stop": 300,
+      "sum": 0
     },
     {
       "kol": 1,
-      "sum": 1000,
-      "stop": 300
+      "stop": 300,
+      "sum": 1000
+    }
+  ],
+  "07.08": [
+    {
+      "desc": "habibi",
+      "kol": 1,
+      "stop": 0,
+      "sum": 0
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 900
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
     }
   ],
   "08.07": [
     {
       "kol": 7,
-      "sum": 3000,
-      "stop": 0
+      "stop": 0,
+      "sum": 3000
     },
     {
+      "desc": "ME HABIBI",
       "kol": 1,
-      "sum": 0,
       "stop": 0,
-      "desc": "ME HABIBI"
+      "sum": 0
+    }
+  ],
+  "08.08": [
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 800
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 800
     }
   ],
   "09.07": [
     {
       "kol": 1,
-      "sum": 800,
-      "stop": 300
+      "stop": 300,
+      "sum": 800
     },
     {
       "kol": 1,
-      "sum": 1000,
-      "stop": 300
+      "stop": 300,
+      "sum": 1000
     },
     {
       "kol": 5,
-      "sum": 700,
-      "stop": 300
+      "stop": 300,
+      "sum": 700
+    }
+  ],
+  "09.08": [
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 800
     }
   ],
   "10.07": [
     {
       "kol": 1,
-      "sum": 1000,
-      "stop": 300
+      "stop": 300,
+      "sum": 1000
     },
     {
       "kol": 4,
-      "sum": 1700,
-      "stop": 0
+      "stop": 0,
+      "sum": 1700
     },
     {
+      "desc": " 80 USDT",
       "kol": 2,
-      "sum": 0,
       "stop": 0,
-      "desc": " 80 USDT"
+      "sum": 0
+    }
+  ],
+  "10.08": [
+    {
+      "desc": "ban",
+      "kol": 3,
+      "stop": 300,
+      "sum": 2000
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 0
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 900
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "desc": "habibi",
+      "kol": 1,
+      "stop": 0,
+      "sum": 0
     }
   ],
   "11.07": [
     {
+      "desc": "1+ FOR FREE FOR YESTERDAY",
       "kol": 2,
-      "sum": 1000,
       "stop": -100,
-      "desc": "1+ FOR FREE FOR YESTERDAY"
+      "sum": 1000
     },
     {
       "kol": 1,
-      "sum": 800,
-      "stop": 300
-    },
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300
-    },
-    {
-      "kol": 2,
-      "sum": 600,
       "stop": 300,
-      "desc": "+80EUR"
+      "sum": 800
+    },
+    {
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "desc": "+80EUR",
+      "kol": 2,
+      "stop": 300,
+      "sum": 600
+    }
+  ],
+  "11.08": [
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "desc": "",
+      "kol": 5,
+      "stop": 300,
+      "sum": 0
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
     }
   ],
   "12.07": [
     {
       "kol": 1,
-      "sum": 1000,
-      "stop": 300
+      "stop": 300,
+      "sum": 1000
     },
     {
       "kol": 3,
-      "sum": 2500,
-      "stop": 300
+      "stop": 300,
+      "sum": 2500
     },
     {
       "kol": 1,
-      "sum": 900,
-      "stop": 300
+      "stop": 300,
+      "sum": 900
     },
     {
       "kol": 1,
-      "sum": 800,
-      "stop": 300
+      "stop": 300,
+      "sum": 800
     },
     {
       "kol": 2,
-      "sum": 0,
-      "stop": 300
+      "stop": 300,
+      "sum": 0
     },
     {
+      "desc": "80EUR",
       "kol": 1,
-      "sum": 0,
       "stop": 300,
-      "desc": "80EUR"
+      "sum": 0
+    }
+  ],
+  "12.08": [
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
     }
   ],
   "13.07": [
     {
+      "desc": "",
       "kol": 1,
-      "sum": 800,
       "stop": 300,
-      "desc": ""
+      "sum": 800
     },
     {
+      "desc": "",
       "kol": 3,
-      "sum": 0,
       "stop": 300,
-      "desc": ""
+      "sum": 0
     },
     {
+      "desc": "",
       "kol": 7,
-      "sum": 4000,
       "stop": 300,
-      "desc": ""
+      "sum": 4000
     },
     {
+      "desc": "",
       "kol": 3,
-      "sum": 0,
       "stop": 300,
-      "desc": ""
+      "sum": 0
     },
     {
+      "desc": "HABIBI",
       "kol": 1,
-      "sum": 0,
       "stop": 0,
-      "desc": "HABIBI"
+      "sum": 0
     },
     {
+      "desc": "",
       "kol": 5,
-      "sum": 2000,
       "stop": 0,
-      "desc": ""
+      "sum": 2000
+    }
+  ],
+  "13.08": [
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "desc": "habibi",
+      "kol": 1,
+      "stop": 0,
+      "sum": 0
     }
   ],
   "14.07": [
     {
+      "desc": "",
       "kol": 1,
-      "sum": 1000,
       "stop": 300,
-      "desc": ""
+      "sum": 1000
     },
     {
+      "desc": "",
       "kol": 1,
-      "sum": 800,
       "stop": 300,
-      "desc": ""
+      "sum": 800
     },
     {
+      "desc": "",
       "kol": 1,
-      "sum": 1000,
       "stop": 300,
-      "desc": ""
+      "sum": 1000
     },
     {
+      "desc": "",
       "kol": 3,
-      "sum": 2500,
       "stop": 300,
-      "desc": ""
+      "sum": 2500
     },
     {
+      "desc": "",
       "kol": 5,
-      "sum": 3000,
       "stop": 300,
-      "desc": ""
+      "sum": 3000
     },
     {
+      "desc": "",
       "kol": 3,
-      "sum": 2500,
       "stop": 300,
-      "desc": ""
+      "sum": 2500
     },
     {
+      "desc": "",
       "kol": 1,
-      "sum": 0,
       "stop": 300,
-      "desc": ""
+      "sum": 0
+    }
+  ],
+  "14.08": [
+    {
+      "desc": "",
+      "kol": 3,
+      "stop": 300,
+      "sum": 2000
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 800
     }
   ],
   "15.07": [
     {
+      "desc": "",
       "kol": 8,
-      "sum": 3000,
       "stop": 0,
-      "desc": ""
+      "sum": 3000
     },
     {
+      "desc": "",
       "kol": 2,
-      "sum": 1600,
       "stop": 300,
-      "desc": ""
+      "sum": 1600
     },
     {
+      "desc": "",
       "kol": 2,
-      "sum": 1600,
       "stop": 300,
-      "desc": ""
+      "sum": 1600
     },
     {
+      "desc": "habibi",
       "kol": 1,
-      "sum": 0,
       "stop": 0,
-      "desc": "habibi"
+      "sum": 0
+    }
+  ],
+  "15.08": [
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "desc": "",
+      "kol": 5,
+      "stop": 300,
+      "sum": 3500
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "desc": "",
+      "kol": 3,
+      "stop": 300,
+      "sum": 2400
+    },
+    {
+      "desc": "habibi",
+      "kol": 1,
+      "stop": 0,
+      "sum": 200
     }
   ],
   "16.07": [
     {
       "kol": 3,
-      "sum": 2400,
-      "stop": 300
+      "stop": 300,
+      "sum": 2400
     },
     {
       "kol": 1,
-      "sum": 1000,
-      "stop": 300
+      "stop": 300,
+      "sum": 1000
     },
     {
       "kol": 6,
-      "sum": 3000,
-      "stop": 300
+      "stop": 300,
+      "sum": 3000
+    }
+  ],
+  "16.08": [
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "desc": "",
+      "kol": 0,
+      "stop": 300,
+      "sum": -1300
     }
   ],
   "17.07": [
     {
+      "desc": "take ap drop 3000",
       "kol": 0,
-      "sum": -3000,
       "stop": 300,
-      "desc": "take ap drop 3000"
+      "sum": -3000
     },
     {
       "kol": 10,
-      "sum": 0,
-      "stop": 300
+      "stop": 300,
+      "sum": 0
+    }
+  ],
+  "17.08": [
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 900
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 3,
+      "stop": 300,
+      "sum": 2400
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 0
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 2000
     }
   ],
   "18.07": [
     {
       "kol": 2,
-      "sum": 1600,
-      "stop": 300
+      "stop": 300,
+      "sum": 1600
     },
     {
       "kol": 1,
-      "sum": 1000,
-      "stop": 300
+      "stop": 300,
+      "sum": 1000
     },
     {
       "kol": 2,
-      "sum": 1500,
-      "stop": 300
+      "stop": 300,
+      "sum": 1500
     },
     {
       "kol": 2,
-      "sum": 1600,
-      "stop": 300
+      "stop": 300,
+      "sum": 1600
     },
     {
       "kol": 1,
-      "sum": 0,
-      "stop": 0
+      "stop": 0,
+      "sum": 0
+    }
+  ],
+  "18.08": [
+    {
+      "desc": "habibi",
+      "kol": 2,
+      "stop": 0,
+      "sum": 0
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "habibi",
+      "kol": 2,
+      "stop": 0,
+      "sum": 400
+    },
+    {
+      "desc": "115usdt",
+      "kol": 3,
+      "stop": 0,
+      "sum": 0
     }
   ],
   "19.07": [
     {
       "kol": 1,
-      "sum": 1700,
-      "stop": 300
+      "stop": 300,
+      "sum": 1700
     },
     {
       "kol": 5,
-      "sum": 2000,
-      "stop": 0
+      "stop": 0,
+      "sum": 2000
     },
     {
       "kol": 1,
-      "sum": 1000,
-      "stop": 300
+      "stop": 300,
+      "sum": 1000
+    }
+  ],
+  "19.08": [
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
     }
   ],
   "20.07": [
     {
       "kol": 1,
-      "sum": 1000,
-      "stop": 300
+      "stop": 300,
+      "sum": 1000
     },
     {
       "kol": 2,
-      "sum": 1600,
-      "stop": 300
+      "stop": 300,
+      "sum": 1600
     },
     {
       "kol": 1,
-      "sum": 1000,
-      "stop": 300
+      "stop": 300,
+      "sum": 1000
     },
     {
       "kol": 1,
-      "sum": 0,
-      "stop": 0
+      "stop": 0,
+      "sum": 0
+    }
+  ],
+  "20.08": [
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1500
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 0
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
     }
   ],
   "21.07": [
     {
       "kol": 1,
-      "sum": 1000,
-      "stop": 300
+      "stop": 300,
+      "sum": 1000
     },
     {
       "kol": 5,
-      "sum": 0,
-      "stop": 300
+      "stop": 300,
+      "sum": 0
     },
     {
       "kol": 2,
-      "sum": 1600,
-      "stop": 300
+      "stop": 300,
+      "sum": 1600
     },
     {
+      "desc": "faktura till 26.07",
       "kol": 7,
-      "sum": 0,
       "stop": 0,
-      "desc": "faktura till 26.07"
+      "sum": 0
+    }
+  ],
+  "21.08": [
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1500
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
     }
   ],
   "22.07": [
     {
       "kol": 5,
-      "sum": 0,
-      "stop": 300
+      "stop": 300,
+      "sum": 0
     },
     {
       "kol": 2,
-      "sum": 1600,
-      "stop": 300
-    }
-  ],
-  "24.07": [
-    {
-      "kol": 1,
-      "sum": 1000,
       "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 3,
-      "sum": 2400,
-      "stop": 300,
-      "desc": ""
-    }
-  ],
-  "25.07": [
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 10,
-      "sum": 6000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 1800,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 3,
-      "sum": 2400,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 6000,
-      "stop": 300,
-      "desc": ""
-    }
-  ],
-  "26.07": [
-    {
-      "kol": 0,
-      "sum": -15000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 0,
-      "sum": 10000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 3,
-      "sum": 0,
-      "stop": 300,
-      "desc": "3ban 2min 200EUR"
-    },
-    {
-      "kol": 3,
-      "sum": 2500,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 3,
-      "sum": 1500,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    }
-  ],
-  "27.07": [
-    {
-      "kol": 3,
-      "sum": 2400,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 0,
-      "sum": -9500,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 0,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 1500,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 5,
-      "sum": 2000,
-      "stop": 0,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 0,
-      "stop": 0,
-      "desc": "habibi"
-    }
-  ],
-  "28.07": [
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 0,
-      "sum": -16800,
-      "stop": 300,
-      "desc": "29.07 ap 16800 +200eu left 17min"
-    }
-  ],
-  "29.07": [
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    }
-  ],
-  "30.07": [
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    }
-  ],
-  "31.07": [
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 17500,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 800,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 800,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 700,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 0,
-      "stop": 0,
-      "desc": "HABIBI"
-    }
-  ],
-  "01.08": [
-    {
-      "kol": 3,
-      "sum": 2500,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 0,
-      "stop": 300,
-      "adr": "",
-      "driver": "Vinzzz",
-      "desc": ""
-    }
-  ],
-  "06.08": [
-    {
-      "kol": 3,
-      "sum": 2000,
-      "stop": 300,
-      "desc": "ban"
-    },
-    {
-      "kol": 1,
-      "sum": 800,
-      "stop": 300,
-      "desc": ""
-    }
-  ],
-  "07.08": [
-    {
-      "kol": 1,
-      "sum": 0,
-      "stop": 0,
-      "desc": "habibi"
-    },
-    {
-      "kol": 1,
-      "sum": 900,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    }
-  ],
-  "08.08": [
-    {
-      "kol": 1,
-      "sum": 800,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 800,
-      "stop": 300,
-      "desc": ""
-    }
-  ],
-  "09.08": [
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 800,
-      "stop": 300,
-      "desc": ""
-    }
-  ],
-  "10.08": [
-    {
-      "kol": 3,
-      "sum": 2000,
-      "stop": 300,
-      "desc": "ban"
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 0,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 900,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 0,
-      "stop": 0,
-      "desc": "habibi"
-    }
-  ],
-  "11.08": [
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 5,
-      "sum": 0,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    }
-  ],
-  "12.08": [
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    }
-  ],
-  "13.08": [
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 0,
-      "stop": 0,
-      "desc": "habibi"
-    }
-  ],
-  "14.08": [
-    {
-      "kol": 3,
-      "sum": 2000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 800,
-      "stop": 300,
-      "desc": ""
-    }
-  ],
-  "15.08": [
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 5,
-      "sum": 3500,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 3,
-      "sum": 2400,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 200,
-      "stop": 0,
-      "desc": "habibi"
-    }
-  ],
-  "16.08": [
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 0,
-      "sum": -1300,
-      "stop": 300,
-      "desc": ""
-    }
-  ],
-  "17.08": [
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 900,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 3,
-      "sum": 2400,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 0,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 2000,
-      "stop": 300,
-      "desc": ""
-    }
-  ],
-  "18.08": [
-    {
-      "kol": 2,
-      "sum": 0,
-      "stop": 0,
-      "desc": "habibi"
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 400,
-      "stop": 0,
-      "desc": "habibi"
-    },
-    {
-      "kol": 3,
-      "sum": 0,
-      "stop": 0,
-      "desc": "115usdt"
-    }
-  ],
-  "19.08": [
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    }
-  ],
-  "20.08": [
-    {
-      "kol": 2,
-      "sum": 1500,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 0,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    }
-  ],
-  "21.08": [
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1500,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "desc": ""
+      "sum": 1600
     }
   ],
   "22.08": [
     {
+      "desc": "41200 + 390EUR",
       "kol": 0,
-      "sum": -45400,
       "stop": 500,
-      "desc": "41200 + 390EUR"
+      "sum": -45400
     },
     {
+      "desc": "",
       "kol": 20,
-      "sum": 5000,
       "stop": 400,
-      "desc": ""
+      "sum": 5000
     },
     {
+      "desc": "",
       "kol": 1,
-      "sum": 800,
       "stop": 300,
-      "desc": ""
+      "sum": 800
     },
     {
+      "desc": "",
       "kol": 3,
-      "sum": 2000,
       "stop": 300,
-      "desc": ""
+      "sum": 2000
     },
     {
+      "desc": "",
       "kol": 2,
-      "sum": 2000,
       "stop": 300,
-      "desc": ""
+      "sum": 2000
     },
     {
+      "desc": "-35 USDT",
       "kol": 0,
-      "sum": 0,
       "stop": 0,
-      "desc": "-35 USDT"
+      "sum": 0
     }
   ],
   "23.08": [
     {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
+      "client": "",
       "desc": "",
-      "client": ""
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
     },
     {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
+      "client": "Litovec vinter",
       "desc": "",
-      "client": "Litovec vinter"
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
     },
     {
-      "kol": 3,
-      "sum": 2000,
-      "stop": 300,
-      "desc": "",
+      "adress": "Kumla gardsvag 30 A",
       "client": "ruskij nacka",
-      "adress": "Kumla gardsvag 30 A"
-    },
-    {
-      "kol": 3,
-      "sum": 2400,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
       "desc": "",
-      "client": "Stamgatan 40"
-    },
-    {
-      "kol": 1,
-      "sum": 800,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 3400,
-      "stop": 300,
-      "desc": "2ban 2500?"
-    },
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 1700,
-      "stop": 300,
-      "desc": "1ban"
-    },
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "desc": ""
-    },
-    {
       "kol": 3,
-      "sum": 2400,
       "stop": 300,
-      "desc": ""
+      "sum": 2000
     },
     {
-      "kol": 1,
-      "sum": 800,
+      "desc": "",
+      "kol": 3,
       "stop": 300,
-      "desc": ""
+      "sum": 2400
     },
     {
+      "client": "Stamgatan 40",
+      "desc": "",
       "kol": 1,
-      "sum": 0,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 800
+    },
+    {
+      "desc": "2ban 2500?",
+      "kol": 2,
+      "stop": 300,
+      "sum": 3400
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "desc": "1ban",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1700
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "desc": "",
+      "kol": 3,
+      "stop": 300,
+      "sum": 2400
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 800
+    },
+    {
+      "desc": "habibi",
+      "kol": 1,
       "stop": 0,
-      "desc": "habibi"
+      "sum": 0
+    }
+  ],
+  "24.07": [
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 3,
+      "stop": 300,
+      "sum": 2400
     }
   ],
   "24.08": [
     {
+      "desc": "",
       "kol": 1,
-      "sum": 800,
       "stop": 300,
-      "desc": ""
+      "sum": 800
     },
     {
+      "desc": "",
       "kol": 3,
-      "sum": 3500,
       "stop": 500,
-      "desc": ""
+      "sum": 3500
     },
     {
+      "desc": "",
       "kol": 2,
-      "sum": 1600,
       "stop": 300,
-      "desc": ""
+      "sum": 1600
     },
     {
+      "desc": "",
       "kol": 2,
-      "sum": 1600,
       "stop": 300,
-      "desc": ""
+      "sum": 1600
     },
     {
+      "desc": "",
       "kol": 2,
-      "sum": 1600,
       "stop": 300,
-      "desc": ""
+      "sum": 1600
     },
     {
+      "desc": "",
       "kol": 1,
-      "sum": 1000,
       "stop": 300,
-      "desc": ""
+      "sum": 1000
+    }
+  ],
+  "25.07": [
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 10,
+      "stop": 300,
+      "sum": 6000
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1800
+    },
+    {
+      "desc": "",
+      "kol": 3,
+      "stop": 300,
+      "sum": 2400
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 6000
+    }
+  ],
+  "26.07": [
+    {
+      "desc": "",
+      "kol": 0,
+      "stop": 300,
+      "sum": -15000
+    },
+    {
+      "desc": "",
+      "kol": 0,
+      "stop": 300,
+      "sum": 10000
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "3ban 2min 200EUR",
+      "kol": 3,
+      "stop": 300,
+      "sum": 0
+    },
+    {
+      "desc": "",
+      "kol": 3,
+      "stop": 300,
+      "sum": 2500
+    },
+    {
+      "desc": "",
+      "kol": 3,
+      "stop": 300,
+      "sum": 1500
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
     }
   ],
   "26.08": [
     {
+      "desc": "",
       "kol": 2,
-      "sum": 5500,
       "stop": 300,
-      "desc": ""
+      "sum": 5500
     },
     {
+      "desc": "",
       "kol": 0,
-      "sum": -17000,
       "stop": 300,
-      "desc": ""
+      "sum": -17000
     },
     {
+      "desc": "2500 to USDT",
       "kol": 0,
-      "sum": -2500,
       "stop": 0,
-      "desc": "2500 to USDT"
+      "sum": -2500
     },
     {
+      "desc": "Habibi",
       "kol": 2,
-      "sum": 0,
       "stop": 0,
-      "desc": "Habibi"
+      "sum": 0
+    }
+  ],
+  "27.07": [
+    {
+      "desc": "",
+      "kol": 3,
+      "stop": 300,
+      "sum": 2400
+    },
+    {
+      "desc": "",
+      "kol": 0,
+      "stop": 300,
+      "sum": -9500
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 0
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1500
+    },
+    {
+      "desc": "",
+      "kol": 5,
+      "stop": 0,
+      "sum": 2000
+    },
+    {
+      "desc": "habibi",
+      "kol": 1,
+      "stop": 0,
+      "sum": 0
     }
   ],
   "27.08": [
     {
+      "desc": "",
       "kol": 0,
-      "sum": -26200,
       "stop": 300,
-      "desc": ""
+      "sum": -26200
     },
     {
+      "desc": "",
       "kol": 2,
-      "sum": 1600,
       "stop": 300,
-      "desc": ""
+      "sum": 1600
     },
     {
+      "desc": "",
       "kol": 2,
-      "sum": 1600,
       "stop": 300,
-      "desc": ""
+      "sum": 1600
     },
     {
+      "desc": "usdt (2626=248.3usdt)",
       "kol": 0,
-      "sum": 0,
       "stop": 0,
-      "desc": "usdt (2626=248.3usdt)"
+      "sum": 0
+    }
+  ],
+  "28.07": [
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "29.07 ap 16800 +200eu left 17min",
+      "kol": 0,
+      "stop": 300,
+      "sum": -16800
     }
   ],
   "28.08": [
     {
+      "desc": "",
       "kol": 2,
-      "sum": 1600,
       "stop": 300,
-      "desc": ""
+      "sum": 1600
     },
     {
+      "desc": "",
       "kol": 2,
-      "sum": 1500,
       "stop": 300,
-      "desc": ""
+      "sum": 1500
     },
     {
+      "desc": "",
       "kol": 1,
-      "sum": 1500,
       "stop": 300,
-      "desc": ""
+      "sum": 1500
     },
     {
+      "desc": "",
       "kol": 1,
-      "sum": 800,
       "stop": 300,
-      "desc": ""
+      "sum": 800
+    }
+  ],
+  "29.07": [
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
     }
   ],
   "29.08": [
     {
+      "desc": "",
       "kol": 2,
-      "sum": 1600,
       "stop": 300,
-      "desc": ""
+      "sum": 1600
+    }
+  ],
+  "30.07": [
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
     }
   ],
   "30.08": [
     {
+      "desc": "",
       "kol": 0,
-      "sum": 35000,
       "stop": 150,
-      "desc": ""
+      "sum": 35000
     },
     {
+      "desc": "",
       "kol": 0,
-      "sum": -11500,
       "stop": 150,
-      "desc": ""
+      "sum": -11500
     },
     {
-      "kol": 4,
-      "sum": 3000,
-      "stop": 300,
       "adr": "Narkesgatan 6",
+      "desc": "",
       "driver": "Jewa",
-      "desc": ""
+      "kol": 4,
+      "stop": 300,
+      "sum": 3000
     },
+    {
+      "adr": "PizzaPauls",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 3,
+      "stop": 300,
+      "sum": 2400
+    },
+    {
+      "adr": "Tulegatan 10",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1500
+    },
+    {
+      "adr": "Tulinge",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 0,
+      "stop": 500,
+      "sum": 20000
+    },
+    {
+      "adr": "",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "adr": "",
+      "desc": "Habibi Birtdays cake",
+      "driver": "",
+      "kol": 3,
+      "stop": 0,
+      "sum": 700
+    }
+  ],
+  "31.07": [
+    {
+      "desc": "",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 17500
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 800
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 800
+    },
+    {
+      "desc": "",
+      "kol": 1,
+      "stop": 300,
+      "sum": 700
+    },
+    {
+      "desc": "HABIBI",
+      "kol": 1,
+      "stop": 0,
+      "sum": 0
+    }
+  ],
+  "31.08": [
+    {
+      "adr": "",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 2,
+      "stop": 300,
+      "sum": 1600
+    },
+    {
+      "adr": "",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 1,
+      "stop": 300,
+      "sum": 900
+    },
+    {
+      "adr": "",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "adr": "",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 1,
+      "stop": 300,
+      "sum": 1000
+    },
+    {
+      "adr": "",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 2,
+      "stop": 300,
+      "sum": 0
+    }
+  ],
+  "04.09": [
     {
       "kol": 3,
       "sum": 2400,
-      "stop": 300,
-      "adr": "PizzaPauls",
-      "driver": "Vinzzz",
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 1500,
-      "stop": 300,
-      "adr": "Tulegatan 10",
-      "driver": "Vinzzz",
-      "desc": ""
-    },
-    {
-      "kol": 0,
-      "sum": 20000,
-      "stop": 500,
-      "adr": "Tulinge",
-      "driver": "Vinzzz",
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "adr": "",
-      "driver": "Vinzzz",
-      "desc": ""
-    },
-    {
-      "kol": 3,
-      "sum": 700,
-      "stop": 0,
-      "adr": "",
-      "driver": "",
-      "desc": "Habibi Birtdays cake"
-    }
-  ],
-  "01.09": [
-    {
-      "kol": 0,
-      "sum": -10000,
-      "stop": 300,
-      "adr": "",
-      "driver": "Vinzzz",
-      "desc": ""
-    },
-    {
-      "kol": 2,
-      "sum": 1600,
-      "stop": 300,
-      "adr": "",
-      "driver": "Vinzzz",
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 800,
-      "stop": 300,
-      "adr": "",
-      "driver": "Vinzzz",
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 800,
-      "stop": 300,
-      "adr": "",
-      "driver": "Vinzzz",
-      "desc": ""
-    },
-    {
-      "kol": 3,
-      "sum": 1400,
-      "stop": 300,
-      "adr": "",
-      "driver": "Vinzzz",
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 0,
-      "stop": 0,
-      "adr": "",
-      "driver": "Vinzzz",
-      "desc": "Vinzz"
-    }
-  ],
-  "02.09": [
-    {
-      "kol": 1,
-      "sum": 0,
-      "stop": 500,
-      "adr": "",
-      "driver": "Vinzzz",
-      "desc": "drop 800bana"
-    },
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "adr": "",
-      "driver": "Vinzzz",
-      "desc": ""
-    }
-  ],
-  "03.09": [
-    {
-      "kol": 1,
-      "sum": 1000,
-      "stop": 300,
-      "adr": "",
-      "driver": "Vinzzz",
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 5600,
-      "stop": 300,
-      "adr": "",
-      "driver": "Vinzzz",
-      "desc": ""
-    },
-    {
-      "kol": 1,
-      "sum": 800,
       "stop": 300,
       "adr": "",
       "driver": "Vinzzz",

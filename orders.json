@@ -1543,6 +1543,11 @@
       "adr": "",
       "driver": "Vinzzz",
       "desc": ""
+    },
+    {
+    "kol": 2,
+    "sum": 0,
+    "stop": 300
     }
   ]
 }

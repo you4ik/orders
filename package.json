@@ -1,6 +1,7 @@
 {
   "name": "orders",
   "version": "1.0.0",
+  "type": "module",
   "main": "main.js",
   "scripts": {
     "show list": "node app.js"
@@ -10,6 +11,7 @@
   "license": "ISC",
   "description": "��#\u0000 \u0000o\u0000r\u0000d\u0000\r\u0000 \u0000",
   "dependencies": {
+    "@supabase/supabase-js": "^2.45.3",
     "axios": "^1.7.2",
     "body-parser": "^1.20.2",
     "ejs": "^3.1.10",

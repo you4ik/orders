@@ -4,9 +4,9 @@ const fs = require('fs');
 const getOrders = JSON.parse(fs.readFileSync('orders.json', 'utf-8'));
 
 // Определение интересующего диапазона дат
-const startDate = '02.09';
+const startDate = '31.08';
 const endDate = '06.09';
-const ordersall = filterOrdersByDateRange(getOrders, '02.09', '06.09');
+const ordersall = filterOrdersByDateRange(getOrders, '31.08', '06.09');
 
 // Преобразование даты из формата "день.месяц" в "месяц.день" для корректного сравнения
 function convertDate(date) {

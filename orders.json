@@ -89,6 +89,14 @@
       "kol": 1,
       "stop": 300,
       "sum": 1000
+    },
+    {
+      "adr": "",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 5,
+      "stop": 300,
+      "sum": 2500
     }
   ],
   "03.08": [
@@ -109,6 +117,14 @@
       "kol": 1,
       "stop": 300,
       "sum": 1000
+    },
+    {
+      "adr": "",
+      "desc": "",
+      "driver": "Vinzzz",
+      "kol": 3,
+      "stop": 300,
+      "sum": 2000
     },
     {
       "adr": "",

@@ -1,7 +1,7 @@
 {
   "name": "orders",
   "version": "1.0.0",
-  "type": "module",
+
   "main": "main.js",
   "scripts": {
     "show list": "node app.js"
@@ -14,9 +14,10 @@
     "@supabase/supabase-js": "^2.45.3",
     "axios": "^1.7.2",
     "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
     "ejs": "^3.1.10",
     "express": "^4.19.2",
-    "node-telegram-bot-api": "^0.66.0",
-    "pm2": "^5.4.2"
+    "pm2": "^5.4.2",
+    "punycode": "^2.3.1"
   }
 }

@@ -4,9 +4,10 @@ const fs = require('fs');
 const getOrders = JSON.parse(fs.readFileSync('orders.json', 'utf-8'));
 
 // Определение интересующего диапазона дат
-const startDate = '06.08';
-const endDate = '31.09';
-const ordersall = filterOrdersByDateRange(getOrders, '06.08', '31.09');
+const startDate = '02.09';
+const endDate = '06.09';
+const ordersall = filterOrdersByDateRange(getOrders, '02.09', '06.09');
+
 // Преобразование даты из формата "день.месяц" в "месяц.день" для корректного сравнения
 function convertDate(date) {
     const [day, month] = date.split('.');
@@ -21,16 +22,23 @@ function filterOrdersByDateRange(orders, startDate, endDate) {
     const convertedEndDate = convertDate(endDate);
     for (let date in orders) {
         const convertedDate = convertDate(date);
-        //console.log(`Checking date: ${convertedDate}`);
         if (convertedDate >= convertedStartDate && convertedDate <= convertedEndDate) {
             filteredOrders[date] = orders[date];
-           // console.log(`Date ${date} is within range.`);
-        } else {
-          //  console.log(`Date ${date} is out of range.`);
         }
     }
-  // console.log(`Filtered orders: ${JSON.stringify(filteredOrders)}`);
-    return filteredOrders;
+
+    // Сортировка дат в порядке убывания
+    const sortedDates = Object.keys(filteredOrders).sort((a, b) => {
+        return convertDate(b).localeCompare(convertDate(a));
+    });
+
+    // Создание нового объекта с отсортированными датами
+    let sortedFilteredOrders = {};
+    sortedDates.forEach(date => {
+        sortedFilteredOrders[date] = filteredOrders[date];
+    });
+
+    return sortedFilteredOrders;
 }
 
 // Получение отфильтрованных заказов
@@ -99,8 +107,8 @@ ${formatOrders(orders)}
 *****************
 
 **** BALANCE ****
- - MINITS: ${252     - totalItems(ordersall)} 
- - SEK: ${totalSum(ordersall) - totalStop(ordersall)-12300  }      
+ - MINITS: ${163 + 99 - totalItems(ordersall)} 
+ - SEK: ${totalSum(ordersall) - totalStop(ordersall) - 12300}      
  - USDT: 1100(12300)
  - EUR: 0              
 *****************

@@ -10,9 +10,9 @@ async function fetchOrdersByDate() {
     const { data, error } = await supabase
       .from('orders')
       .select('date, kol, sum, stop, desc')
-      .gte('date', '2024-09-06')
-      .lte('date', '2024-09-29')
-      .order('date', { ascending: false });
+      .gte('date', '2024-08-22')
+      .lte('date', '2024-09-06')
+      .order('date', { ascending: true});
 
     if (error) {
       throw new Error(`Error executing query: ${error.message}`);
@@ -38,23 +38,20 @@ async function fetchOrdersByDate() {
       totalStop += order.stop || 0;
     });
     
-    let output = `---- filter date ----
-    MIN LEFT: ${155 - totalKol }(163 - ${totalKol+8})
-    TOTAL SUM: ${totalSum}
-    KASSA: ${totalSum - totalStop}
-    -----
-    DROP: 25500 (17400 YOUR / 8100 OUR)
-    THEN KASSA: 13000 (4900 WITHOUT 8100)
-    
-    CREDIT: 40000??? = -8110\n`;
+    let output = `
+    MIN : 163+99 = 262
+    SELL: ${totalKol+15}
+    MIN LEFT: ${163+99 - totalKol-15 }(262 - ${totalKol+15})
+   TOTAL SUM: 22800
+  \n`;
 
     const sortedDates = Object.keys(groupedOrders).sort((a, b) => new Date(b) - new Date(a));
 
     sortedDates.forEach(date => {
-      output += `\n*** ${date} ***\n`;
+     output += `\n*** ${date} ***\n`;
       groupedOrders[date].orders.forEach(order => {
         order.desc = order.desc || '';
-        output += `${order.kol} @ ${order.sum} ${order.desc}\n`;
+       output += `${order.kol} @ ${order.sum} ${order.desc}\n`;
       });
     });
 

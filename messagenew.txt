@@ -1,3 +1,17 @@
+
+*** MINITS ***	
+HOME:	77
+SPOT:	50
+ALL:	127
+	
+*** KASSA ***	
+KASSA:	10800
+	
+*** CREDIT ***	
+SUM:	17500
+	
+14400(30bom),8100	
+
 ---- filter date ----
     MIN LEFT: 78(163 - 85)
     TOTAL SUM: 50200

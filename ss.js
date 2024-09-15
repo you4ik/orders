@@ -39,7 +39,7 @@ async function fetchOrdersByDate() {
     });
     
     let output = `---- filter date ----
-    MIN LEFT: ${155 - totalKol }(163 - ${totalKol+8})
+    MIN LEFT: ${154 - totalKol }(163 - ${totalKol+9})
     TOTAL SUM: ${totalSum}
     KASSA: ${totalSum - totalStop}
     -----
